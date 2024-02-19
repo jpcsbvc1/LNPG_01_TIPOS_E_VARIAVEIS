@@ -1122,7 +1122,7 @@ ALTER TABLE VENDEDORES FLASHBACK ARCHIVE DATA_ARCHIVE;
 
 
 
--- Relatório do Resumo do Oracle SQL Developer Data Modeler: 
+-- RelatÃ³rio do Resumo do Oracle SQL Developer Data Modeler: 
 -- 
 -- CREATE TABLE                            14
 -- CREATE INDEX                            32
